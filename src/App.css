@@ -1,0 +1,43 @@
+body {
+  background: url("./image2/b3.jpg");
+  background-color: #FFF0CC;
+}
+
+.header{
+    font-size: 35px;
+    padding: 55px;
+    background: #FFF0CC;
+    font-family:"Times New Roman";
+    
+}
+
+.nav-bar{
+  background-color:#026400;
+  overflow: hidden;
+  cursor: pointer;
+
+}
+
+
+  
+.tab{
+  background-color: 'darkgreen';
+  float: left;
+  text-align: center;
+  text-decoration: none;
+  font-size: 10px;
+  color: white;
+}
+
+
+
+.tab >h2:hover{
+  background-color:'darkgreen';
+  color: black;
+}
+
+
+
+h2{
+  padding: 5px;
+}

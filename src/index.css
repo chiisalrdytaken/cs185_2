@@ -1,0 +1,52 @@
+
+.home{
+  padding:30px;
+  font-family:"Times New Roman";
+}
+
+. image{
+  padding:10px;
+}
+.image img {
+  margin: 10px;
+  width: 50%;
+  height: auto;
+}
+
+
+
+
+.project {
+  padding:20px;
+	display:;
+}
+
+
+.bar {
+  font-family: sans-serif;
+  padding: 1rem 5rem;
+}
+
+p {
+  border: 1px solid black;
+  padding: 2rem;
+}
+
+.scroll-to-top {
+  position: fixed;
+  bottom: 0.5rem;
+  right: 0.5rem;
+  animation: fadeIn 650ms ease-in-out 1s both;
+  cursor: pointer;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+
