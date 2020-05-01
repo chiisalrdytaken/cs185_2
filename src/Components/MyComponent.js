@@ -18,14 +18,14 @@ function MyComponent() {
     <div className="MyComponent">
           
       <SRLWrapper>
-            <img src={p1} alt="185"/>
-			<img src={p2} alt="185"/>
-			<img src={p3} alt="185"/>
-			<img src={p4} alt="185"/>
-			<img src={p5} alt="185"/>
-			<img src={p6} alt="185"/>
-			<img src={p7} alt="185"/>
-			<img src={p8} alt="185"/>
+            <center> <img src={p1} alt="185"/>
+			<img src={p2} alt="185"/></center>
+			<center><img src={p3} alt="185"/>
+			<img src={p4} alt="185"/></center>
+			<center><img src={p5} alt="185"/>
+			<img src={p6} alt="185"/></center>
+			<center><img src={p7} alt="185"/>
+			<img src={p8} alt="185"/></center>
       </SRLWrapper>
     </div>
   );
