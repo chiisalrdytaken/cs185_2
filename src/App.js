@@ -43,6 +43,10 @@ export class App extends Component{
     {
       id:5,
       title: 'Form'
+    },
+    {
+      id:6,
+      title: 'Movies'
     }
     ]
 
